@@ -1,0 +1,16 @@
+{
+    "alert_id": "SOC-AD5B4057",
+    "alert_type": "Network Reconnaissance / Scanning",
+    "indicator_type": "ip",
+    "indicator_value": "192.168.56.102",
+    "source_host": "Ubuntu-Threat-Actor",
+    "destination_host": "Kali-SOC-Target",
+    "destination_ip": "192.168.56.20",
+    "protocol": "ICMP",
+    "evidence": {
+        "packet_count": 48,
+        "time_window_seconds": 100,
+        "data_source": "traffic.pcap"
+    },
+    "analyst_question": "Is this ICMP activity expected or malicious?"
+}
