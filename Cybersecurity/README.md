@@ -1,10 +1,10 @@
-# 🔐 Cybersecurity Portfolio — Paulson K Babu
+# 🔐 Cybersecurity Portfolio — Manmeet Kaur
 
 ![Role Target](https://img.shields.io/badge/Role%20Target-SOC%20Analyst-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![GitHub](https://img.shields.io/badge/GitHub-paulson--k--babu-black)
 
-> Cybersecurity Enthusiast | SOC Analyst Aspirant
+
+> Cybersecurity Enthusiast | SOC Analyst 
 > Hands-on lab projects focused on SIEM, threat detection,
 > network forensics, and SOC operations.
 
@@ -34,18 +34,7 @@
 
 ---
 
-## 🎓 Education & Certifications
 
-| Qualification | Institution | Year |
-|---|---|---|
-| MCA (Master of Computer Applications) | College of Engineering Chengannur | 2024 |
-| BCA (Bachelor of Computer Applications) | Carmel College Muhamma | 2022 |
-| Cisco Networking Basics | Cisco | 2025 |
 
 ---
 
-## 📫 Connect
-
-- 🔗 GitHub: [paulson-k-babu](https://github.com/paulson-k-babu)
-- 💼 LinkedIn: [www.linkedin.com/in/paulsonkbabu](https://www.linkedin.com/in/paulsonkbabu)
-```
